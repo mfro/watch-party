@@ -1,0 +1,10 @@
+{
+  "name": "watch-party",
+  "version": "0.0.0",
+  "dependencies": {
+    "@mfro/assert": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}

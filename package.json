@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "watch-party",
+    "watch-party-server",
+    "watch-party-web"
+  ]
+}

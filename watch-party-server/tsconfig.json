@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+      "module": "ES2020",
+      "target": "ES2020",
+      "strict": true,
+
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "experimentalDecorators": true,
+      "rootDir": "..",
+
+      "baseUrl": ".",
+      "paths": {
+          "@/*": ["src/*"],
+      },
+
+      "lib": [
+          "ES2019",
+          "ES2021.WeakRef",
+      ],
+  },
+  "include": [
+      "./src/main.ts",
+  ]
+}
